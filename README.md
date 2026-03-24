@@ -1,7 +1,6 @@
-# Hi, I'm Lulu 👋
+# Hi, I'm Lulu
 
-🎓 Computer Science student at the University of Michigan–Dearborn
-🌍 International student
+🎓 Computer Science student @ the University of Michigan–Dearborn
 💡 Interested in AI, Software Engineering, Web/App Development, and Data Science  
 
 ---
